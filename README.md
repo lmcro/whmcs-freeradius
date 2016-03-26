@@ -1,5 +1,8 @@
 # WHMCS Freeradius
 
+[![Slack Status](http://slackin.secondimpression.net/badge.svg)](http://slackin.secondimpression.net)
+[![Stories in Ready](https://badge.waffle.io/secondimpression/whmcs-freeradius.png?label=ready&title=Ready)](https://waffle.io/secondimpression/whmcs-freeradius)
+
 ### Important note...
 
 There have been recent untested changes and additions. Log an issue as needed or sponsor a WHMCS testing license / server, if you like.
